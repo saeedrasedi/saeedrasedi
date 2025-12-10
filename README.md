@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saeed Rasedi
 
-![Profile Banner]([https://github.com/saeedrasedi/saeedrasedi/blob/main/github-header-banner.png])
+![Profile Banner](https://github.com/saeedrasedi/saeedrasedi/blob/main/github-header-banner.png)
 
 Senior Network Engineer & IT Manager based in Tehran, Iran. Passionate about optimizing networks, securing systems, and driving IT solutions for business growth. With over 8 years of experience in network administration, server management, and IT support, I focus on solving complex challenges through continuous learning and innovative tools.
 
