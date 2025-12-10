@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saeed Rasedi
 
-![Profile Banner](https://your-banner-image-url-here.jpg) <!-- اگر بنر دارید، لینک آن را از سایتتان اضافه کنید، مثلاً از saeedrasedi.com -->
+![Profile Banner]([https://your-banner-image-url-here.jpg](https://github.com/saeedrasedi/saeedrasedi/blob/main/github-header-banner.png))
 
 Senior Network Engineer & IT Manager based in Tehran, Iran. Passionate about optimizing networks, securing systems, and driving IT solutions for business growth. With over 8 years of experience in network administration, server management, and IT support, I focus on solving complex challenges through continuous learning and innovative tools.
 
@@ -10,7 +10,7 @@ Senior Network Engineer & IT Manager based in Tehran, Iran. Passionate about opt
 - 📫 Reach me: [contact@saeedrasedi.com](mailto:contact@saeedrasedi.com) | [+98 919 771 7375](tel:+989197717375)
 - ⚡ Fun fact: I built a Telegram bot for learning English – check it out [here](https://github.com/saeedrasedi/Learn-English)!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saeedrasedi) <!-- اگر لینک لینکدین دارید، اضافه کنید -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saeedrasedi)
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat&logo=google-chrome)](https://saeedrasedi.com)
 [![GitHub followers](https://img.shields.io/github/followers/saeedrasedi?style=social)](https://github.com/saeedrasedi?tab=followers)
 
