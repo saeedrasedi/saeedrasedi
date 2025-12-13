@@ -1,112 +1,80 @@
-# 👋 Hi, I'm Saeed Rasedi
-
 ![Profile Banner](https://github.com/saeedrasedi/saeedrasedi/blob/main/github-header-banner.png)
 
 **Senior Network & System Administrator | Infrastructure & Security Engineer**
 
-I’m passionate about designing, securing, and maintaining resilient IT infrastructures. With years of practical experience in network engineering, virtualization, firewall security, system administration, and automation — I build reliable systems that scale and perform.
+I design, secure, and maintain resilient IT infrastructures.  
+With years of hands-on experience in network engineering, virtualization, firewall security, system administration, and automation, I focus on building reliable, scalable, and secure systems.
 
-📍 Based in Tehran, Iran  
-🌐 saeedrasedi.com :contentReference[oaicite:1]{index=1}
+📍 Tehran, Iran  
+🌐 https://saeedrasedi.com
 
 ---
 
-## 🧠 Tech Stack
-
-### 🌐 Networking & Security
-![Fortinet](https://skillicons.dev/icons?i=fortinet)
-![MikroTik](https://skillicons.dev/icons?i=mikrotik)
-![Ubiquiti](https://skillicons.dev/icons?i=ubiquiti)
-![Cisco](https://skillicons.dev/icons?i=cisco)
-
+## 🌐 Networking & Security
 - Firewall & Network Security (FortiGate, MikroTik, Ubiquiti)
-- VPN (IPsec, OpenVPN)
+- VPN Technologies (IPsec, OpenVPN)
 - Routing & Switching
 - Network Monitoring & Troubleshooting
+- Secure Network Design & Hardening
 
 ---
 
-### 🖥️ Virtualization & Systems
-![VMware](https://skillicons.dev/icons?i=vmware)
-![Windows](https://skillicons.dev/icons?i=windows)
-![Linux](https://skillicons.dev/icons?i=linux)
-
-- VMware vSphere / ESXi  
-- Microsoft Hyper-V  
-- Active Directory & Microsoft Services  
-- Ubuntu / CentOS / Debian Servers
+## 🖥 Virtualization & Systems
+- VMware vSphere / ESXi
+- Microsoft Hyper-V
+- Windows Server & Active Directory
+- Linux Servers (Ubuntu, Debian, CentOS)
+- DNS, DHCP, WSUS
 
 ---
 
-### 💾 Backup & Storage
-![TrueNAS](https://skillicons.dev/icons?i=truenas)
-![QNAP](https://skillicons.dev/icons?i=qnap)
-
-- NAS Administration (QNAP, TrueNAS)
-- Backup Solutions (Veeam, Acronis)
+## 💾 Storage & Backup
+- NAS Systems: QNAP, TrueNAS
+- Backup & Recovery: Veeam, Acronis
+- Data Protection & Disaster Recovery Planning
 
 ---
 
-### ⚙️ Automation & Scripting
-![Python](https://skillicons.dev/icons?i=python)
-![PowerShell](https://skillicons.dev/icons?i=powershell)
-![Bash](https://skillicons.dev/icons?i=bash)
-
-- Python scripting  
-- PowerShell automation  
-- Bash scripting
+## ⚙️ Automation & Scripting
+- Python (Infrastructure scripting)
+- PowerShell (Windows & AD automation)
+- Bash (Linux administration & automation)
 
 ---
 
-### 🛠 Tools & Platforms
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-![Jira](https://skillicons.dev/icons?i=jira)
-![Trello](https://skillicons.dev/icons?i=trello)
-
-- GitLab  
-- Jira  
-- Trello  
-- PRTG Network Monitor
+## 🔐 Monitoring & Operations
+- Network & System Monitoring (PRTG, OpManager)
+- Performance Optimization
+- Incident Response & Troubleshooting
+- Documentation & Operational Procedures
 
 ---
 
-## 🛡 What I Do
-
-### 🔹 Network Infrastructure
-- Design and implement LAN/WAN and core routing (OSPF, BGP)
-- Secure firewall configurations and VPN deployment
-
-### 🔹 Server & Virtualization
-- Deploy and manage VMware & Hyper-V environments
-- Administer Windows & Linux systems
-- Active Directory, DNS, DHCP, WSUS
-
-### 🔹 Monitoring & Backup
-- PRTG, Zabbix & system performance monitoring
-- Data protection with Veeam & Acronis
-
-### 🔹 Automation & Tools
-- Script operational tasks with Python, PowerShell, and Bash
-- Build workflows to reduce manual work
+## 🛠 Tools & Platforms
+- GitLab
+- Jira
+- Trello
+- OpenVPN
 
 ---
 
-## 📂 Recommended Repositories
+## 📂 What You’ll Find in My Repositories
+This GitHub profile focuses on **real-world infrastructure work**, including:
+- Firewall configurations & best practices
+- Network & VPN labs
+- PowerShell & Bash automation scripts
+- Linux hardening notes
+- Virtualization & backup documentation
 
-Here are some project ideas to showcase your work:
+Each repository includes clear documentation and practical examples.
 
-```md
-📌 fortigate-configs  
-📌 mikrotik-automation-scripts  
-📌 vmware-deployments  
-📌 powershell-admin-tools  
-📌 linux-hardening-guides
+---
 
+## 📫 Contact
+- Website: https://saeedrasedi.com  
+- GitHub: https://github.com/saeedrasedi  
+- LinkedIn: https://linkedin.com/in/saeed-rasedi
 
+---
 
-## 📊 GitHub Stats
-
-![Saeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedrasedi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedrasedi&layout=compact&theme=radical)
-
-Thanks for visiting! Let's connect and build something awesome. 🚀
+*Infrastructure should be reliable, secure, and well-documented — that’s what I build.*
