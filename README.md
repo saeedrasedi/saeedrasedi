@@ -7,8 +7,7 @@ Senior Network Engineer & IT Manager based in Tehran, Iran. Passionate about opt
 - 🔭 Currently working on network security with FortiGate and virtualization with VMware.
 - 🌱 Learning advanced scripting in Python and PowerShell for automation.
 - 👯 Open to collaborating on open-source networking tools or IT projects.
-- 📫 Reach me: [contact@saeedrasedi.com](mailto:contact@saeedrasedi.com) | [+98 919 771 7375](tel:+989197717375)
-- ⚡ Fun fact: I built a Telegram bot for learning English – check it out [here](https://github.com/saeedrasedi/Learn-English)!
+- 📫 Reach me: [srasedi@gmail.com](mailto:srasedi@gmail.com) | [+98 919 771 7375](tel:+989197717375)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saeedrasedi)
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat&logo=google-chrome)](https://saeedrasedi.com)
